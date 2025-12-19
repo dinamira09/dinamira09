@@ -1,6 +1,6 @@
 # 👩‍💻 Nur Irdina Amira Binti Muhammad Rozee
 
-![Profile Picture](https://via.placeholder.com/150)
+
 
 ## ✨ Headline
 Computer Science (Bioinformatics) Student | UTM
