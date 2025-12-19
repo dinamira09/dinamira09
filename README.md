@@ -1,7 +1,6 @@
 # 👩‍💻 Nur Irdina Amira Binti Muhammad Rozee
 
 
-
 ## ✨ Headline
 Computer Science (Bioinformatics) Student | UTM
 
@@ -34,30 +33,6 @@ Hi! I’m **Nur Irdina Amira Binti Muhammad Rozee**, and a **matriculation stude
 - Willing to learn  
 - Teamwork
 
-
-## 💼 Current Position
-
-* Computer Science Student
-
----
-
-## 🛠 Skills
-
-**Programming Languages**
-
-* C++ (Beginner)
-
-**Technical Skills**
-
-* Basic programming concepts
-* Problem solving
-* Git & GitHub (Beginner)
-
-**Soft Skills**
-
-* Dedicated and responsible
-* Willing to learn
-* Teamwork
 
 ---
 
